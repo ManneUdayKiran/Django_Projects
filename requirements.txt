@@ -18,32 +18,4 @@ gunicorn
 whitenoise
 # For security enhancements
 
-# For API documentation
-# For caching
-# For email handling    
-# For Celery task management
-django-celery-beat
-# For GraphQL support
-graphene-django
-# For WebSocket support 
-channels
-# For user authentication
-django-allauth
-# For internationalization
-django-rosetta
-# For performance monitoring
-django-silk
-# For testing API endpoints
-djangorestframework-simplejwt
-# For handling file uploads
-django-storages
-# For managing user permissions
-django-guardian
-# For handling migrations in a more robust way  
-django-migration-linter
-# For managing database connections 
-django-dbconnections
-# For managing database transactions    
-django-dbtransactions
-# For managing database indexes
-django-dbindexes
+
