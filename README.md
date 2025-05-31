@@ -1,5 +1,4 @@
 
-```markdown
 # 📝 Django ToDo App
 
 A simple task management (ToDo) application built using Django and Bootstrap.
