@@ -26,9 +26,10 @@ SECRET_KEY = 'django-insecure-ec-5g&nkqy7+ux_gs3n^%njuc8eb71#=+*50-gc$m%x5u=n0uh
 DEBUG = True
 
 ALLOWED_HOSTS = ['django-projects-ed78.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://django-projects-ed78.onrender.com']
 
 CORS_ALLOWED_ORIGINS = ["*",
-    "django-projects-ed78.onrender.com"  # React's dev server
+    'https://django-projects-ed78.onrender.com' # React's dev server
 ]
 
 
